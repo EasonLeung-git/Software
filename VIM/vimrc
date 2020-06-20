@@ -1,0 +1,11 @@
+set nu
+set nobackup
+set ruler
+set autoindent
+set smartindent
+setlocal et sta sw=4 sts=4
+syntax on
+set ai!
+set showmatch
+set tabstop=4
+set cindent
