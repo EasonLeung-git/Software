@@ -1,0 +1,18 @@
+" For Gvim
+
+set nu
+set nobackup
+set ruler
+set autoindent
+set smartindent
+setlocal et sta sw=4 sts=4
+syntax on
+set ai!
+set showmatch
+set tabstop=4
+set cindent
+set guifont=Courier_New:b:h16
+colorscheme desert
+:set guioptions-=T  "remove toolbar
+:set guioptions-=r  "remove right-hand scroll bar
+:set guioptions-=L  "remove left-hand scroll
