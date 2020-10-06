@@ -19,8 +19,8 @@ set cpo&vim
 syn keyword asmType AX BX CX DX AH AL BH BL CH CL DH DL CS ES DS SS SP SI DI
 syn keyword asmType ax bx cx dx ah al bh bl ch cl dh dl cs es ds ss sp si di
 
-syn keyword asmLabel ASSUME SEGMENT ENDS END OFFSET " CODE DATA STACK
-syn keyword asmLabel assume segment ends end offset " code data stack
+syn keyword asmLabel ASSUME SEGMENT ENDS END OFFSET
+syn keyword asmLabel assume segment ends end offset
 
 syn keyword asmMacro MOV INC ADD SUB LOOP STC IMUL NOP IN OUT JMP JE JNE ESP PUSH POP AND OR DUP DD JCXZ RET RETF CALL ADC SBB CMP POPF INT 
 syn keyword asmMacro mov inc add sub loop stc imul nop in out jmp je jne esp push pop and or dup dd jcxz ret retf call adc sbb cmp popf int 
