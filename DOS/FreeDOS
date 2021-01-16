@@ -6,8 +6,3 @@ SET PROMPT=$e[1;35;40m$p$g$e[1;32;40m
 
 ALIAS ls=DIR /W /P
 
-# FDCONFIG.SYS
-# --------------------------------------
-DEVICE=C:\FDOS\BIN\NANSI.SYS
-
-DEVICEHIGH=C:\FDOS\BIN\NANSI.SYS
