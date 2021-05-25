@@ -1,0 +1,2 @@
+- SDL2-devel-2.0.14-mingw.zip
+- SDL2-devel-2.0.14-VC.zip
